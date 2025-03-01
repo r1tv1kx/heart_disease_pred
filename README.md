@@ -49,11 +49,8 @@ The dataset has 303 rows and 14 columns.
 
 ## 3. Project Structure
 
-heart-disease-pred/
-├── data/
-│ └── heart.csv # Heart disease dataset
-├── Heart-Disease-Prediction.ipynb # Jupyter Notebook with code
-├── README.md # Project documentation
+<img width="566" alt="Screenshot 2025-03-01 at 11 23 11 AM" src="https://github.com/user-attachments/assets/8a080a85-d79e-40ad-862a-7f7a962bba15" />
+
 
 ## 4. Dependencies
 
