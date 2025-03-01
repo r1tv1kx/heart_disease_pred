@@ -21,7 +21,6 @@ This project focuses on building a machine learning model to predict the likelih
 11. [Results](#results)
 12. [Future Work](#future-work)
 13. [Contributing](#contributing)
-14. [License](#license)
 
 ## 1. Introduction
 
@@ -75,8 +74,8 @@ You can install these dependencies using `pip`:
 1.  Clone the repository:
 
     ```
-    git clone [repository_url]
-    cd Heart-Disease-Prediction
+    git clone https://github.com/r1tv1kx/heart_disease_pred.git
+    cd heart_disease_pred
     ```
 
 2.  Create a virtual environment (optional but recommended):
